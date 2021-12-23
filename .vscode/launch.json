@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "gateway-rest-graphql",
+            "console": "internalConsole",
+            "request": "launch",
+            //"envFile": "${workspaceFolder}/local/env/local-private.env",
+            "mainClass": "com.example.gatewayrestgraphql.Application",
+            "projectName": "gateway-rest-graphql"
+        }
+    ]
+}

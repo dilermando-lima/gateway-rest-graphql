@@ -1,0 +1,10 @@
+{
+    "java.configuration.updateBuildConfiguration": "disabled",
+    "files.exclude": {
+        // "**/.git": true,
+        // ".gradle": true,
+        // "build": true,
+        // "bin" : true,
+        // ".gitignore":true
+    }
+}
